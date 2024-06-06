@@ -11,7 +11,7 @@
 ## Contribuição
 * Contribuições São bem-vindas! Sinta-se à vontade para clonar o repositório e enviar Pull requests.
 
-## Deploy 🌐 => https://danielolivermoco.github.io/Projeto-Iphone/
+## Website 🌐➡️ https://danielolivermoco.github.io/Projeto-Iphone/
 <br>
 <br>
   <img src="https://github.com/danielolivermoco/Projeto-Iphone/blob/master/img/img-amarela.png?raw=true">
